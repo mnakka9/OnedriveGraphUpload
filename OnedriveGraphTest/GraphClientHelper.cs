@@ -16,7 +16,7 @@ namespace OnedriveGraphTest
 {
     public static class GraphClientHelper
     {
-        private static string ClientId = "7c70606c-c585-4850-aa15-5717ee1227b9";
+        private static string ClientId = "<ClientId>";
         private static String[] Scopes = {
                         "User.Read",
                         "User.ReadBasic.All",
